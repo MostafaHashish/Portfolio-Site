@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="utf-8">
+	<title>TEST</title>
+	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
+	<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header class="header">
+	<div class= "header__inner">
+        <img class="header__logo" src="images/udacitylogo.png" alt="Udacity Logo">
+        <h1 class="header__title">JANE DOETTE</h1>
+	</div>
+  </header>
+  <main>
+
+	<figure  id = "main_image">
+     <img src="images/mainimg.png" alt="Main Image">
+    </figure>
+
+	<section class = "container">
+
+       <p class = "section_title">Featured Work</p>
+     <div class = "flex-grid">
+      <figure class="bottom_figures">
+        <img src="images/appify.png" alt="Appify">
+		<figcaption>APPIFY<br><a href="https://github.com/udacity/Appify">VIEW PROJECT ON GITHUB</a></figcaption>
+		</figure>
+      
+	  <figure class="bottom_figures">
+        <img src="images/SUNFLOWER.jpg" alt="SUNFLOWER image">
+		<figcaption>SUNFLOWER<br><a href="https://github.com/udacity/Sunflower">VIEW PROJECT ON GITHUB</a></figcaption>
+		</figure>
+      
+	  <figure class="bottom_figures">
+        <img src="images/bokeh.jpg" alt="BOKEH image">
+		<figcaption>BOKEH<br><a href="https://github.com/udacity/Bokeh">VIEW PROJECT ON GITHUB</a></figcaption>
+		</figure>
+	  </div>
+    </section>
+  </main>
+</body>
+
+</html>
