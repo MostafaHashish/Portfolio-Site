@@ -6,14 +6,6 @@ Build a Portfolio Site project,part of the Udacity [Full Stack Web Developer Nan
 
 Building a portfolio website, provided a design mockup as a PDF-file, and I must replicate that design in HTML and CSS.
 
-## Prerequisites
-
-install any text editor: 
-  [Atom](https://atom.io/)
-  [Sublime] (https://www.sublimetext.com/download)
-  [Notepad++] (https://notepad-plus-plus.org/download/v7.5.3.html)
-
-
 ## Project contents
 
 * images folder - contains images to use in the website
